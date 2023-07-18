@@ -7,3 +7,4 @@ This is what the dataset initially looked like:
 
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/1.JPG)
 
+#### ** * STEP 1 * **
