@@ -8,7 +8,7 @@ This is what the dataset initially looked like:
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/1.JPG)
 
 
-### **STEP 1**
+### <u>**STEP 1**</u>
 The first thing I did was delete the "Logo" column, as it seemed out of place and was not necessary for my analysis.
 
 
