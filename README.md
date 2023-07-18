@@ -65,7 +65,7 @@ Finally, I created a new column, "Total Sales" with the sum of all the sales for
 
 ## PART 2: Tableau
 
-Using the cleaned dataset, I obtained the following insights:
+Using the cleaned dataset, I obtained the following insights in Tableau:
 
 ### ELECTRIC VEHICLE MARKET SHARE
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/TAB%201.JPG)
