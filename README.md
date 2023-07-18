@@ -53,6 +53,7 @@ I replaced all the empty cells within the dataset range to 0.
 Finally, I created a new column, "Total Sales" with the sum of all the sales for each EV model. 
 
 [You can view the cleaned dataset here](https://github.com/shounjacob/EV_Car_Sales/blob/main/Electric%20Car%20Sales%20by%20Model%20in%20USA.csv)
+
 *Now, the dataset is ready to visualize in Tableau!*
 
 
