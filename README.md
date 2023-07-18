@@ -8,12 +8,14 @@ The main objectives of this project were to:
 
 *NOTE* : This data is about EV sales between January 2012 and September 2019.
 
+
 ## PART 1: Excel
 
 This is what the dataset initially looked like:
 
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/1.JPG)
 
+[This dataset can be accessed here:](https://github.com/shounjacob/EV_Car_Sales/blob/main/Electric%20Car%20Sales%20by%20Model%20in%20USA%20(INITIAL).csv) 
 
 ### **STEP 1**
 The first thing I did was delete the "Logo" column, as it seemed out of place and was not necessary for my analysis.
@@ -54,14 +56,23 @@ Finally, I created a new column, "Total Sales" with the sum of all the sales for
 
 
 
+
+
+
+
+
 ## PART 2: Tableau
 
 Using the cleaned dataset, I obtained the following insights:
 
 ### ELECTRIC VEHICLE MARKET SHARE
-
+![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/TAB%201.JPG)
 
 ### TOP 5 LEADING EV MANUFACTURERS
-
+![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/TAB%202.JPG)
 
 ### TOP 10 BEST-SELLING EV MODELS
+![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/TAB%203.JPG)
+
+
+[This tableau file can be accessed here:](https://public.tableau.com/app/profile/shounjacob1204/viz/EVCarSales_16896319792250/MyStory)
