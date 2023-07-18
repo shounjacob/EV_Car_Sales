@@ -1,15 +1,23 @@
 # EV Car Sales Project
 
 ## Overview
-In this project, the first step was to clean the dataset I had obtained. Let me walk you through the steps I followed to do so.
+The main objectives of this project were to:
+
+1. Clean the data using Microsoft Excel.
+2. Visualize the data using Tableau.
+
+*NOTE* : This data is about EV sales between January 2012 and September 2019.
+
+## PART 1: Excel
 
 This is what the dataset initially looked like:
 
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/1.JPG)
 
 
-### <u>**STEP 1**</u>
+### **STEP 1**
 The first thing I did was delete the "Logo" column, as it seemed out of place and was not necessary for my analysis.
+
 
 
 ### **STEP 2**
@@ -18,10 +26,13 @@ After that, I fixed the formatting of the dates, as there were many different fo
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/2.%20date%20change.JPG)
 
 
+
+
 ### **STEP 3**
 Upon observing the cell values, I noticed that there was a "â€¬" string in multiple cells, which seemed unnecessary. I removed those next.
 
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/3.%20replace%20weird%20text.JPG)
+
 
 
 ### **STEP 4**
@@ -30,8 +41,10 @@ There was also wrong comma formatting for some of the values, so I rectified tha
 ![Image Not Available!](https://github.com/shounjacob/EV_Car_Sales/blob/main/Screenshots/4.%20replace%20commas.JPG)
 
 
+
 ### **STEP 5**
 I replaced all the empty cells within the dataset range to 0.
+
 
 
 ### **STEP 6**
@@ -40,3 +53,15 @@ Finally, I created a new column, "Total Sales" with the sum of all the sales for
 *Now, the dataset is ready to visualize in Tableau!*
 
 
+
+## PART 2: Tableau
+
+Using the cleaned dataset, I obtained the following insights:
+
+### ELECTRIC VEHICLE MARKET SHARE
+
+
+### TOP 5 LEADING EV MANUFACTURERS
+
+
+### TOP 10 BEST-SELLING EV MODELS
